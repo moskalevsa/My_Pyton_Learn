@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d1597f-eab9-41b7-93b3-12254e5eed84" name="Список изменений" comment="первое приветствие">
-      <change afterPath="$PROJECT_DIR$/.gigaide/gigaide.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_Pyton_Learn.iml" afterDir="false" />
-    </list>
+    <list default="true" id="03d1597f-eab9-41b7-93b3-12254e5eed84" name="Список изменений" comment="Использование subprocess. Правка опечаток" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +32,9 @@
     &quot;accountId&quot;: &quot;ba20e609-528b-424e-ad80-c8a75fe3331d&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -80,7 +73,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741528295162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Использование subprocess. Правка опечаток">
+      <option name="closed" value="true" />
+      <created>1741601167184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741601167184</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Использование subprocess. Правка опечаток">
+      <option name="closed" value="true" />
+      <created>1741601748352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741601748352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первое приветствие" />
-    <option name="LAST_COMMIT_MESSAGE" value="первое приветствие" />
+    <MESSAGE value="Использование subprocess. Правка опечаток" />
+    <option name="LAST_COMMIT_MESSAGE" value="Использование subprocess. Правка опечаток" />
   </component>
 </project>
